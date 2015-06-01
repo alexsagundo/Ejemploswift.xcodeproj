@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ejemploswift/ViewController.swift"
+            timestampString = "454692392.47369"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ejemploswift.ViewController.miEtiqueta.setter : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UILabel&gt;"
+                  moduleName = "Ejemploswift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/proyectosCetina/Documents/untitled%20folder/Ejemploswift/Ejemploswift/ViewController.swift"
+                  timestampString = "454694628.95153"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ejemploswift.ViewController.miEtiqueta.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UILabel&gt;"
+                  moduleName = "Ejemploswift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/proyectosCetina/Documents/untitled%20folder/Ejemploswift/Ejemploswift/ViewController.swift"
+                  timestampString = "454694628.951767"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ejemploswift.ViewController.init (Ejemploswift.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Ejemploswift.ViewController"
+                  moduleName = "Ejemploswift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/proyectosCetina/Documents/untitled%20folder/Ejemploswift/Ejemploswift/ViewController.swift"
+                  timestampString = "454694628.951917"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ejemploswift.ViewController.init (Ejemploswift.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Ejemploswift.ViewController"
+                  moduleName = "Ejemploswift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/proyectosCetina/Documents/untitled%20folder/Ejemploswift/Ejemploswift/ViewController.swift"
+                  timestampString = "454694628.952065"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ejemploswift/ViewController.swift"
+            timestampString = "454694857.179781"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
